@@ -30,15 +30,3 @@ Total Loans = COUNT(fact_loans[loan_id])
 Total Defaults = SUM(fact_loans[is_default])
 Default Rate % = DIVIDE([Total Defaults], [Total Loans], 0)
 
----
-
-``` text 
-├── Data/
-│   └── raw_data.csv
-├── Power BI/
-│   └── credit_risk_dashboard.pbix
-├── Screenshots/
-│   ├── 2024-2025.png
-│   └── schema and data.png
-└── Sql/
-    └── DDL_DML_and_queries.sql
