@@ -6,7 +6,7 @@
 
 | Dashboard Overview (2024–2025) | Data Model (Star Schema) |
 | :---: | :---: |
-| ![Dashboard Overview](Скриншоты/2024-2025.png) | ![Data Model](Скриншоты/schema and data.png) |
+| ![Dashboard Overview](screenshots/2024-2025.png) | ![Data Model](Скриншоты/schema and data.png) |
 
 ---
 
