@@ -2,7 +2,7 @@
 
 | Dashboard Overview (2024–2025) | Data Model & Star Schema |
 | :---: | :---: |
-| ![Dashboard Overview](Screenshots/2024-2025.png) | ![Data Model](Screenshots/schema and data.png) |
+| ![Dashboard Overview](Screenshots/2024-2025.png) | ![Data Model](Screenshots/schema%20and%20data.png) |
 
 ## 📌 Executive Summary
 Комплексное BI- и риск-аналитическое решение для финансового департамента и службы риск-менеджмента банка. Проект диагностирует качество кредитного портфеля, выявляет зоны финансовых потерь и предоставляет руководству инструменты для оптимизации кредитной политики.
@@ -33,7 +33,6 @@ Default Rate % = DIVIDE([Total Defaults], [Total Loans], 0)
 
 ```
 
-### Путь файла:
 ├── Data/          # Исходные файлы датасетов
 ├── Power BI/      # Файл отчета (.pbix)
 ├── Screenshots/   # Визуализации дашборда и схемы данных
