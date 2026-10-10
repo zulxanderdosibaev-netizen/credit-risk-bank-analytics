@@ -29,10 +29,10 @@ Total Volume = SUM(fact_loans[loan_amount])
 Total Loans = COUNT(fact_loans[loan_id])
 Total Defaults = SUM(fact_loans[is_default])
 Default Rate % = DIVIDE([Total Defaults], [Total Loans], 0)
-
 ---
 
 ```
+
 ### Путь файла:
 ├── Data/          # Исходные файлы датасетов
 ├── Power BI/      # Файл отчета (.pbix)
