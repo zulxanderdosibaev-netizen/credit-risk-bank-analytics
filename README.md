@@ -32,6 +32,7 @@ Default Rate % = DIVIDE([Total Defaults], [Total Loans], 0)
 
 ---
 
+### Путь файла
 ├── Data/          # Исходные файлы датасетов
 ├── Power BI/      # Файл отчета (.pbix)
 ├── Screenshots/   # Визуализации дашборда и схемы данных
